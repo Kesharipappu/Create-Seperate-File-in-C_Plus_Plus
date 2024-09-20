@@ -1,0 +1,12 @@
+Steps to Create Separate File in C++ and import inside main.cpp file
+
+1. Create main file
+2. create another file with extension .h (I created shape.h)
+3. Save both file at same place
+4. import shape.h in main program (inside .cpp file)
+5. (#include iostream.h and using namespace std) these two header file should be inside both files
+6. Always Run .cpp file
+***************************
+		Example in my  program
+1. I created Calculate Area of Different Shapes.cpp  which is maim file
+2. shape.h which is to be imported inside Calculate Area of Different Shapes.cpp
